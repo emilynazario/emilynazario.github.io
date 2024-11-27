@@ -2,7 +2,7 @@
 title: "Diverse Voices in Fisheries Science: Lessons Learned from an Insightful Seminar Series"
 collection: publications
 category: manuscripts
-permalink: #/publication/2022-10-12-paper-title-number-1
+#permalink: #/publication/2022-10-12-paper-title-number-1
 excerpt: #sentence summary
 date: 2022-10-12
 venue: 'Fisheries'
